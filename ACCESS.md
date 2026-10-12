@@ -6,7 +6,7 @@ The public release contains analysis source code, software checks using artifici
 
 ## Request process
 
-Send an initial request to Kunyu Yang at **yangkunyu@hust.edu.cn**, including:
+Send an initial request to Yanze Li at **yanzeli95@gmail.com**, including:
 
 1. The investigator's name, institution, and institutional contact information.
 2. A concise research question and the materials requested.

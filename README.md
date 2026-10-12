@@ -29,7 +29,7 @@ Input definitions and function documentation are provided in the source modules.
 
 Clinical records and patient-level derived data are not publicly distributed. The trained model, fitted preprocessing values, empirical reference arrays, and patient-level scores are also excluded from this repository.
 
-Investigators may request controlled access from Kunyu Yang at **yangkunyu@hust.edu.cn**. Requests are reviewed for their scientific purpose, institutional authorization, data protection arrangements, and applicable ethics and use agreements. Access is not automatic. The research ethics approvals do not themselves authorize public redistribution of clinical records.
+Investigators may request controlled access from Yanze Li at **yanzeli95@gmail.com**. Requests are reviewed for their scientific purpose, institutional authorization, data protection arrangements, and applicable ethics and use agreements. Access is not automatic. The research ethics approvals do not themselves authorize public redistribution of clinical records.
 
 See [ACCESS.md](ACCESS.md) for the request process and [SECURITY.md](SECURITY.md) for reporting security concerns. Do not submit patient information or model files in public issues, pull requests, or attachments.
 
